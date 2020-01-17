@@ -1,0 +1,11 @@
+.container{
+    background-color:rgb(224, 222, 222) ;
+    width: flex;
+    height:1500px;
+    margin-top:-22px;
+   
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: -20px;
+}
+

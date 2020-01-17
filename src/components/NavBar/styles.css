@@ -1,0 +1,41 @@
+.nav{
+    list-style-type: none;
+    margin: 0;
+    height:100px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: rgb(251, 252, 253);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+
+.ser{
+    width: 1000px;
+
+}
+
+.input{
+    font-size: 1em;
+    width: 100%;
+}
+
+
+.logo{
+    font-size: 60px;
+    float: left;
+} 
+
+.cart{
+    float:right;
+    margin-right: 10px;
+ 
+
+}
+
+.input{
+    padding:9px;
+    width:150px;
+    align-items: center;
+}
